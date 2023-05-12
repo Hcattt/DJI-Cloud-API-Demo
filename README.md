@@ -18,5 +18,5 @@ Cloud API 1.1.0 was released on 22 July 2022. For more information, please visit
 
 ## License
 
-Cloud API is MIT-licensed. Please refer to the LICENSE file for more information.
+Cloud API is MIT-licensed. Please refer to the LICENSE file for more information. 1
 
